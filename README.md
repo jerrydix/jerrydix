@@ -1,5 +1,5 @@
 ### Hello there!
-![](https://github-readme-stats.vercel.app/api?username=jerrydix&count_private=true&show_icons=true&theme=codeSTACKr)
+![jerrydix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerrydix&theme=vue-dark&hide_border=true)
 
 <!--
 **jerrydix/jerrydix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
