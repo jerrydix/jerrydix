@@ -1,5 +1,5 @@
 ### Hello there!
-<!--![jerrydix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerrydix&theme=react&hide_border=true)
+<!--![jerrydix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerrydix&theme=react&hide_border=true)-->
 ![jerrydix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerrydix&theme=gotham&hide_border=true)
 
 <!--
