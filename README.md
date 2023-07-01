@@ -1,5 +1,6 @@
 ### Hello there!
-![jerrydix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerrydix&theme=react&hide_border=true)
+<!--![jerrydix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerrydix&theme=react&hide_border=true)
+![jerrydix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerrydix&theme=gotham&hide_border=true)
 
 <!--
 **jerrydix/jerrydix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
